@@ -1,4 +1,6 @@
 
+========================================================================================================
+
 <item>
 <title>[COLOR goldenrod]VILLANCICOS[/COLOR][COLOR mediumspringgreen] POPULARES[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -37,7 +39,7 @@
 		<fanart>http://www.leechamber.org/wp-content/uploads/2014/10/christmas_tree_ornaments.jpg</fanart>
 </item>
 
-
+========================================================================================================
 
 <item>
 <title>[COLOR goldenrod]VILLANCICOS[/COLOR][COLOR mediumspringgreen] FLAMENCOS[/COLOR]</title>
@@ -76,3 +78,5 @@
 		<thumbnail>http://i68.tinypic.com/o9k21u.jpg</thumbnail>
 		<fanart>http://www.leechamber.org/wp-content/uploads/2014/10/christmas_tree_ornaments.jpg</fanart>
 </item>
+
+========================================================================================================
